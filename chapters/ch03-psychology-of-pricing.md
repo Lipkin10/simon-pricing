@@ -57,7 +57,7 @@ Buyers are neither the rational utility-maximizers of classical economics nor as
 - Electric razor: sharp price rise toward Braun → unit sales ×4.
 - Cloud software: $19.90/seat/month vs competitor >$100 → large firms distrusted it; fix was a feature-rich higher-priced package.
 - Placebo painkiller (vitamin C): high-price group 100 % reported relief, low-price group 50 %.
-- Energy drink: $2.89 vs $0.89 → measurably better training and puzzle performance at the higher price.
+- Energy drink: $2.89 vs $0.89 → athletes *reported* better training results; puzzle performance was *measured* better at the higher price.
 - Used-car experts (n = 60): anchor $3,800 → estimate $3,563; anchor $2,800 → $2,520; gap $1,043 = 32 % of the $3,300 mean anchor.
 - Sid & Harry suits: shouted $42, sold at $22. Schwarzenegger patio: argued $8,000, closed at $7,000.
 - Padlock: range $4–$12 → bought $8; range $4–$16 → would have bought $10, +25 % revenue.
