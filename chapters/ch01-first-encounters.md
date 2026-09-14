@@ -1,57 +1,57 @@
-# Capítulo 1: Meus primeiros encontros dolorosos com preços
+# Chapter 1: My First Painful Encounters with Prices
 
-## Ideia central
-Precificar é como as pessoas dividem valor, e a pior posição em qualquer mercado é aquela em que você não tem voz nessa divisão. Nunca opere um negócio em que você não possa influenciar os preços que cobra.
+## Core Idea
+Pricing is how people divide value, and the worst position in any market is the one where you have no say in that division. Never run a business whose prices you cannot influence.
 
-## Frameworks apresentados
-- **Gestão de preços (price management)**: o termo de Simon para fundir a teoria quantitativa de preços (matemática, elasticidade, modelos) com a política qualitativa de preços (o que os praticantes de fato fazem), para que quem define preços no dia a dia decida melhor.
-  - Quando usar: sempre que uma decisão de preço estiver sendo tomada ou puramente por fórmulas ou puramente pelo folclore da empresa.
-  - Como: (1) estruture o problema com a teoria; (2) meça o que a teoria exige (elasticidade, curva de demanda, disposição a pagar (willingness to pay, WTP)); (3) traduza o resultado em uma regra que um gerente ou vendedor possa aplicar; (4) trate a matemática como vantagem competitiva só quando combinada com emoção, incentivos e comunicação.
-- **O jogo de coalizão de Selten (Selten coalition game)**: um jogador A e quatro jogadores B dividem $100 se formarem uma coalizão que se mantenha por 10 minutos; A tem o dobro do peso de um B.
-  - Quando usar: como ensaio mental para qualquer negociação em que um bolo de dinheiro é dividido entre partes com pesos de barganha desiguais.
-  - Como: conheça sua parcela esperada (baseada no peso) e então use comunicação e incentivos para negociar acima dela; o resultado é definido pela negociação, não só pelos pesos.
+## Frameworks Introduced
+- **Price management**: the author's term for fusing quantitative price theory (math, elasticity, models) with qualitative price policy (what practitioners actually do), so that whoever sets prices day to day decides better.
+  - When to use: whenever a price decision is being made either purely by formula or purely by company folklore.
+  - How: (1) structure the problem with theory; (2) measure what the theory requires (elasticity, demand curve, willingness to pay); (3) translate the result into a rule a manager or salesperson can apply; (4) treat the math as a competitive advantage only when combined with emotion, incentives and communication.
+- **Selten's coalition game**: one A player and four B players divide $100 if they form a coalition that holds for 10 minutes; A carries twice the weight of a B.
+  - When to use: as a thought rehearsal for any negotiation where a pool of money is split among parties with unequal bargaining weight.
+  - How: know your expected share (weight-based), then use communication and incentives to negotiate above it; the outcome is set by the negotiation, not by the weights alone.
 
-## Conceitos-chave
-- **Tomador de preço (price taker)**: um vendedor que precisa aceitar qualquer preço que o mercado ou o intermediário anuncie (a fazenda que vende porcos e leite a uma cooperativa).
-- **Valor**: a palavra mais importante em precificação; aquilo que a precificação divide entre as partes.
-- **Consultor de preços (price consultant)**: um praticante (Dan Nimer cunhou o termo nos anos 1970) que ganha a vida resolvendo problemas de precificação das empresas com táticas práticas, muitas vezes à frente da teoria.
-- **Elasticidade-preço ao longo do ciclo de vida do produto**: a sensibilidade a preço dos compradores muda conforme o produto envelhece; o trabalho empírico de Simon em 1978 contradisse os modelos vigentes.
-- **Lucro como "custo de sobrevivência"** (Drucker): um lucro adequado é a linha de base ética; a firma que não o obtém é a que lesa a sociedade.
-- **Preço bidimensional (taxa inicial + uso com desconto)**: a estrutura por trás do cartão de desconto da ferrovia alemã de 1992; receita estável de taxa mais volume maior.
-- **Gerir para o lucro, não para participação de mercado**: a lucratividade é o lado negligenciado da balança, segundo o depoimento de Drucker.
+## Key Concepts
+- **Price taker**: a seller who must accept whatever price the market or the intermediary announces (the farm selling hogs and milk to a cooperative).
+- **Value**: the most important word in pricing; what pricing divides between the parties.
+- **Price consultant**: a practitioner (Dan Nimer coined the term in the 1970s) who makes a living solving companies' pricing problems with practical tactics, often ahead of theory.
+- **Price elasticity over the product life cycle**: buyers' price sensitivity changes as a product ages; the author's 1978 empirical work contradicted the prevailing models.
+- **Profit as the "cost of survival"** (Drucker): an adequate profit is the ethical baseline; the firm that fails to earn one is the firm that rips off society.
+- **Two-dimensional price (upfront fee + discounted usage)**: the structure behind the German railway's 1992 discount card; stable fee revenue plus higher volume.
+- **Manage for profit, not for market share**: profitability is the neglected side of the scale, per Drucker's testimonial.
 
-## Modelos mentais
-- Pense em todo preço como uma reivindicação sobre um bolo de valor que precisa ser dividido; quem controla o preço controla a divisão.
-- Use o teste do "tomador de preço" em qualquer modelo de negócio: se você não consegue mover seu próprio preço, o modelo é estruturalmente fraco por melhor que seja o produto.
-- Pense em táticas de preço como uma caixa de ferramentas que pode funcionar antes de a teoria prová-las (Nimer recomendou bundling anos antes de Stanford mostrar por que é ótimo); não espere a prova para testar uma estrutura, mas meça o resultado.
-- Use o horizonte de cenário como insumo de precificação: alguns efeitos levam anos (exploração de petróleo), outros invalidam um sistema inteiro em minutos (o lançamento da TUI marcado para 1 out 2001, obsoleto após 11 set).
+## Mental Models
+- Think of every price as a claim on a pool of value that has to be divided; whoever controls the price controls the division.
+- Apply the "price taker" test to any business model: if you cannot move your own price, the model is structurally weak no matter how good the product.
+- Think of price tactics as a toolbox that can work before theory proves them (Nimer recommended bundling years before Stanford showed why it is optimal); don't wait for the proof to test a structure, but do measure the result.
+- Use the scenario horizon as a pricing input: some effects take years (oil exploration), others invalidate an entire system in minutes (the TUI launch set for 1 October 2001, obsolete after 11 September).
 
-## Antipadrões
-- **Precificação por teoria pura**: modelos elegantes que nenhum gerente consegue aplicar; a ciência acadêmica de preços ficou marginal porque nunca saiu da microeconomia.
-- **Precificação por folclore puro ("política de preços")**: regras passadas oralmente numa empresa, sem exame e sem quantificação.
-- **Servir a dois senhores**: Simon deixou a academia em 1995 quando a firma passou a exigir atenção total; meio comprometimento com precificação não constrói capacidade de precificação.
-- **Reflexo de menor lance**: um produto que não ganha dinheiro não é um negócio que valha muito.
+## Anti-patterns
+- **Pricing by pure theory**: elegant models no manager can apply; academic price science stayed marginal because it never left microeconomics.
+- **Pricing by pure folklore ("price policy")**: rules passed around orally inside a company, unexamined and unquantified.
+- **Serving two masters**: the author left academia in 1995 when the firm began to demand full attention; half a commitment to pricing does not build pricing capability.
+- **The lowest-bid reflex**: a product that does not make money is not a business worth much.
 
-## Números e limiares
-- Jogo de Selten: bolo de $100, coalizão precisa durar 10 minutos, A tem 2x o peso de cada B; divisão esperada $50 para A, $25 para dois Bs; Simon (como A) levou $60 e dois Bs levaram $20 cada, 20% acima do valor esperado.
-- Receita da Simon-Kucher: $400,000 no primeiro ano (1985, 3 fundadores + 3 funcionários); $2.2M com 13 funcionários em 1989; $7.9M com 35 funcionários em 1995; $235M, 850+ funcionários, 30 escritórios em 24 países em 2015.
-- Price Management, 2ª edição (1992): 740 páginas.
-- Marcos: tese de doutorado sobre estratégias de preço para novos produtos; artigo na Management Science em 1978; reuniões em janeiro de 1979 com Kotler, Dolan, Nagle; contato com Nimer em 1979; firma fundada em 1985; Power Pricing publicado em 1996.
-- Cartão de desconto da ferrovia alemã lançado em 1992 com taxa inicial; detalhes e desconto no Cap 2.
+## Numbers & Thresholds
+- Selten game: $100 pool, coalition must hold 10 minutes, A carries 2x the weight of each B; expected split $50 to A and $25 to two Bs; the author (as A) took $60 and two Bs took $20 each, 20 % above expected value.
+- Simon-Kucher revenue: $400,000 in the first year (1985, 3 founders + 3 employees); $2.2M with 13 employees in 1989; $7.9M with 35 employees in 1995; $235M, 850+ employees, 30 offices in 24 countries in 2015.
+- Price Management, 2nd edition (1992): 740 pages.
+- Milestones: doctoral thesis on price strategies for new products; paper in Management Science in 1978; January 1979 meetings with Kotler, Dolan and Nagle; contact with Nimer in 1979; firm founded 1985; Power Pricing published 1996.
+- German railway discount card launched 1992 with an upfront fee; details and discount in Ch 2.
 
-## Exemplo trabalhado
-Situação: um jogo entre estudantes com dinheiro real, $100 a dividir entre um jogador A (peso dobrado) e quatro jogadores B, pagos só se uma coalizão sobreviver 10 minutos. Decisão: como A, Simon negociou em vez de aceitar o valor esperado baseado no peso ($50). Números: vai e vem prolongado até uma coalizão se sustentar; divisão final $60 para A, $20 para cada um de dois Bs, dois Bs excluídos. Resultado: A capturou 20% mais do que o esperado. Lição que atravessa o livro: preço é o resultado da divisão de valor, e negociação, incentivos e comunicação movem a divisão.
+## Worked Example
+Situation: a game among students with real money, $100 to divide between one A player (double weight) and four B players, paid only if a coalition survives 10 minutes. Decision: as A, the author negotiated rather than accept the weight-based expected value ($50). Numbers: prolonged back-and-forth until a coalition held; final split $60 to A and $20 to each of two Bs, two Bs excluded. Outcome: A captured 20 % more than expected. The lesson that runs through the whole book: price is the outcome of dividing value, and negotiation, incentives and communication move the division.
 
-## Lições principais
-1. Recuse modelos de negócio em que você é tomador de preço; projete para influência sobre o preço desde o início.
-2. Trate "valor" como a primeira palavra de toda conversa sobre preço.
-3. Combine teoria e prática: meça elasticidade e disposição a pagar, depois transforme o resultado em uma regra que um vendedor possa usar.
-4. Conheça sua parcela esperada numa negociação e negocie acima dela com incentivos e comunicação.
-5. Lucro é o custo de sobrevivência; subprecificar é uma falha ética, não uma virtude.
-6. Precificação é uma disciplina e uma função corporativa, não uma tarefa secundária; dê a ela atenção dedicada.
-7. Embuta verificações de premissas nos sistemas de preço; choques externos podem anular toda premissa da noite para o dia.
+## Key Takeaways
+1. Refuse business models where you are a price taker; design for price influence from the start.
+2. Treat "value" as the first word of every conversation about price.
+3. Combine theory and practice: measure elasticity and willingness to pay, then turn the result into a rule a salesperson can use.
+4. Know your expected share in a negotiation and negotiate above it with incentives and communication.
+5. Profit is the cost of survival; underpricing is an ethical failure, not a virtue.
+6. Pricing is a discipline and a corporate function, not a side task; give it dedicated attention.
+7. Build assumption checks into price systems; external shocks can void every premise overnight.
 
-## Conecta com
-- **Cap 2**: o cartão de desconto mencionado aqui é trabalhado por completo como o caso BahnCard; "valor" vira "preço = valor".
-- **Cap 3**: achados comportamentais que explicam por que negociação e percepção vencem a divisão esperada baseada em peso.
-- **Cap 5 (lucro)**: o "lucro como custo de sobrevivência" de Drucker é a base para gerir para o lucro em vez de participação de mercado.
+## Connects To
+- **Ch 2**: the discount card mentioned here is worked through in full as the BahnCard case; "value" becomes "price = value".
+- **Ch 3**: behavioral findings that explain why negotiation and perception beat the weight-based expected split.
+- **Ch 5 (profit)**: Drucker's "profit as the cost of survival" is the basis for managing for profit rather than market share.

@@ -19,7 +19,7 @@
 | Sold out on day one | Treat as evidence the price was too low | Audi Q7, Playmobil, Asus (ch07) |
 | Real +X % performance won't survive a +X % list price | Change the metric so usage pays for it | Michelin per mile (ch08) |
 | Considering a flat rate | Only if consumption is naturally capped; simulate heavy-user tail | Flat rates cap revenue forever (ch08) |
-| Running freemium | Optimize the free/paid gap, not the price | Elasticity ≈ 1; ~20 % upside from structure (ch08) |
+| Running freemium | Optimize the free/paid gap, not the price | Elasticity ≈ 1; ~20 % upside from systematic optimization of price *and* product (ch08) |
 | Need a price increase in a competitive market | Cut discounts via commission tied to discount level, shown live | 16 % → 14 % = +2 % price, no volume loss (ch05, ch08) |
 | Need to pass on costs | Indexed surcharge on a low-attention element | Fuel surcharge with <1 % margins raised returns 30 % (ch08) |
 | Tempted to charge for something felt "already paid" | Don't, without research | Bank of America $5 debit fee (ch08) |
@@ -35,7 +35,7 @@
 
 | Item | Value |
 |---|---|
-| Price elasticity, typical | 1.3–3, median ≈ 2 (ch05) |
+| Price elasticity, typical | 1.3–3, median ≈ 2; up to 10 under a communicated special offer (ch05) |
 | Advertising / sales-force elasticity | 0.05–0.1 / 0.2–0.35 → 1 % price ≈ 10–20 % ad budget ≈ 7–8 % sales force (ch05) |
 | Δprofit from a price change, volume constant | ≈ Δprice % ÷ net margin % (ch05) |
 | Uniform price captures | ~50 % of the profit triangle (linear demand) (ch07) |
